@@ -9,14 +9,14 @@ require_once __DIR__ . '/partials/tour-slider.php';
       <div class="hero__content">
         <span class="badge badge--light">Skill-first hiring platform</span>
         <h1>Hiring that celebrates great teaching.</h1>
-        <p class="lead">LevelMinds connects schools and educators through transparent pipelines, collaborative workflows, and digital profiles that highlight classroom impact.</p>
+        <p class="lead">LevelMinds connects Educational Institutions & Companies and educators through transparent pipelines, collaborative workflows, and digital profiles that highlight classroom impact.</p>
         <div class="hero__actions">
           <a class="btn btn-primary" href="https://lmap.in/signup">Sign Up as School</a>
           <a class="btn btn-secondary" href="https://lmap.in/signup">Sign Up as Teacher</a>
         </div>
         <dl class="metric-grid">
           <div class="metric metric--on-dark">
-            <dt>Partner schools</dt>
+            <dt>Partner Educational Institutions</dt>
             <dd>30+</dd>
           </div>
           <div class="metric metric--on-dark">
@@ -48,7 +48,7 @@ require_once __DIR__ . '/partials/tour-slider.php';
   <section class="section section--muted">
     <div class="container">
       <div class="section__header center">
-        <span class="eyebrow">Why schools and teachers choose us</span>
+        <span class="eyebrow">Why Educational Institutions and teachers choose us</span>
         <h2>Every workflow matches the classroom reality</h2>
         <p class="lead">Built with school leaders and educators, LevelMinds organises hiring around skills, collaboration, and trust.</p>
       </div>
@@ -108,7 +108,7 @@ require_once __DIR__ . '/partials/tour-slider.php';
     <div class="container stack">
       <div class="section__header center">
         <span class="eyebrow">Product spotlight</span>
-        <h2>Dashboards built for schools and teachers</h2>
+        <h2>Dashboards built for Educational Institutions and teachers</h2>
         <p class="lead">See how LevelMinds keeps hiring data visible with dedicated views for leadership and educators.</p>
       </div>
       <?= lm_render_tour_slider(); ?>
@@ -124,7 +124,7 @@ require_once __DIR__ . '/partials/tour-slider.php';
       </div>
       <div class="card card--dark">
         <h3>Built for the classroom</h3>
-        <p>We partner with forward-thinking schools across India to co-create playbooks that highlight teaching excellence.</p>
+        <p>We partner with forward-thinking Educational Institutions across India to co-create playbooks that highlight teaching excellence.</p>
         <ul class="list-check">
           <li>Context-rich candidate profiles</li>
           <li>Evidence-backed evaluations</li>
@@ -137,8 +137,8 @@ require_once __DIR__ . '/partials/tour-slider.php';
   <section class="section section--muted">
     <div class="container cta-banner">
       <div>
-        <h2>Ready to match great teachers with the right schools?</h2>
-        <p class="lead">Create your LevelMinds dashboard and start connecting teachers with the right schools.</p>
+        <h2>Ready to match great teachers with the right Educational Institutions?</h2>
+        <p class="lead">Create your LevelMinds dashboard and start connecting teachers with the right Educational Institutions.</p>
       </div>
       <div class="cta-actions">
         <a class="btn btn-primary" href="contact.php">Talk to our team</a>
