@@ -37,10 +37,10 @@ require_once __DIR__ . '/partials/tour-slider.php';
       <div class="section__header center">
         <span class="eyebrow">Built for everyone involved</span>
         <h2>Choose your journey</h2>
-        <p class="lead">Switch between the school and teacher flow to see how LevelMinds keeps both sides aligned.</p>
+        <p class="lead">Switch between the Educational Institutes and Teacher flow to see how LevelMinds keeps both sides aligned.</p>
       </div>
       <div class="tab-nav" role="tablist">
-        <button type="button" role="tab" aria-selected="true" data-tab-trigger="schools">For schools</button>
+        <button type="button" role="tab" aria-selected="true" data-tab-trigger="schools">For Educational Institutes</button>
         <button type="button" role="tab" aria-selected="false" data-tab-trigger="teachers">For teachers</button>
       </div>
       <div id="tab-schools" class="tab-panel is-active" role="tabpanel">
@@ -71,14 +71,14 @@ require_once __DIR__ . '/partials/tour-slider.php';
           </li>
           <li>
             <h3>Discover the right roles</h3>
-            <p>Filter by school type, subject, and preferred location while receiving recommendations aligned to your skills.</p>
+            <p>Filter by Educational Institutes type, subject, and preferred location while receiving recommendations aligned to your skills.</p>
           </li>
           <li>
             <h3>Track every stage</h3>
             <p>See where you stand across applications with automated updates, reminders, and next-step guidance.</p>
           </li>
           <li>
-            <h3>Connect directly with schools</h3>
+            <h3>Connect directly with Educational Institutes</h3>
             <p>Chat with hiring teams as soon as you are shortlisted and keep every conversation in one place.</p>
           </li>
         </ol>
@@ -90,7 +90,7 @@ require_once __DIR__ . '/partials/tour-slider.php';
     <div class="container cta-banner">
       <div>
         <h2>See how LevelMinds fits your hiring workflow</h2>
-        <p class="lead">Share your goals and we will tailor a walkthrough for your school or teacher network.</p>
+        <p class="lead">Share your goals and we will tailor a walkthrough for your Educational Institutes or Teacher network.</p>
       </div>
       <div class="cta-actions">
         <a class="btn btn-primary" href="contact.php">Book a demo</a>
