@@ -45,7 +45,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['lm_career'])) {
       <div class="stack">
         <span class="badge">Campus ambassador program</span>
         <h1>Bring LevelMinds to your campus</h1>
-        <p class="lead">Help teachers discover new opportunities while gaining leadership experience and building a network across schools.</p>
+        <p class="lead">Help teachers discover new opportunities while gaining leadership experience and building a network across Educational Institutes.</p>
         <div class="hero__actions">
           <a class="btn btn-primary" href="#apply">Apply now</a>
           <a class="btn btn-secondary" href="contact.php">Talk to our team</a>
@@ -63,14 +63,14 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['lm_career'])) {
         <h3>What you will do</h3>
         <ul class="list-check">
           <li>Host micro sessions, webinars, and meetups on campus</li>
-          <li>Identify teachers and alumni exploring new school roles</li>
+          <li>Identify teachers and alumni exploring new Companies roles</li>
           <li>Share LevelMinds updates across student communities</li>
         </ul>
       </article>
       <article class="card">
         <h3>Why it matters</h3>
         <ul class="list-check">
-          <li>Shape how teachers find verified school opportunities</li>
+          <li>Shape how teachers find verified Companies opportunities</li>
           <li>Earn leadership certificates and LevelMinds merch</li>
           <li>Join product workshops with our founding team</li>
         </ul>
