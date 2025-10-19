@@ -1,5 +1,5 @@
 <?php
-$pageTitle = "LevelMinds - Skill-first hiring for schools and teachers";
+$pageTitle = "LevelMinds - Skill-first hiring for Educational Institutions and teachers";
 include 'partials/header.php';
 require_once __DIR__ . '/partials/tour-slider.php';
 ?>
@@ -11,7 +11,7 @@ require_once __DIR__ . '/partials/tour-slider.php';
         <h1>Hiring that celebrates great teaching.</h1>
         <p class="lead">LevelMinds connects Educational Institutions & Companies and educators through transparent pipelines, collaborative workflows, and digital profiles that highlight classroom impact.</p>
         <div class="hero__actions">
-          <a class="btn btn-primary" href="https://lmap.in/signup">Sign Up as School</a>
+          <a class="btn btn-primary" href="https://lmap.in/signup">Sign Up as Educational Institutions</a>
           <a class="btn btn-secondary" href="https://lmap.in/signup">Sign Up as Teacher</a>
         </div>
         <dl class="metric-grid">
@@ -37,9 +37,9 @@ require_once __DIR__ . '/partials/tour-slider.php';
           <p>Follow each stage from shortlist to offer with nudges, notes, and reminders.</p>
         </article>
         <article class="hero-slab hero-slab--dark">
-          <span class="badge badge--light">School dashboard</span>
+          <span class="badge badge--light">Educational Institutions dashboard</span>
           <h3>Guide every hiring step</h3>
-          <p>Insights, reminders, and candidate notes stay together so school teams move quickly with clarity.</p>
+          <p>Insights, reminders, and candidate notes stay together so Educational Institutions teams move quickly with clarity.</p>
         </article>
       </div>
     </div>
@@ -50,7 +50,7 @@ require_once __DIR__ . '/partials/tour-slider.php';
       <div class="section__header center">
         <span class="eyebrow">Why Educational Institutions and teachers choose us</span>
         <h2>Every workflow matches the classroom reality</h2>
-        <p class="lead">Built with school leaders and educators, LevelMinds organises hiring around skills, collaboration, and trust.</p>
+        <p class="lead">Built with Educational Institutions leaders and educators, LevelMinds organises hiring around skills, collaboration, and trust.</p>
       </div>
       <div class="feature-grid">
         <article class="card">
@@ -63,7 +63,7 @@ require_once __DIR__ . '/partials/tour-slider.php';
           </ul>
         </article>
         <article class="card">
-          <h3>School &amp; teacher dashboards</h3>
+          <h3>Educational Institutions &amp; teacher dashboards</h3>
           <p>Give leadership teams and educators a focused dashboard with the stages, filters, and reminders they need to stay in sync.</p>
           <ul class="list-check">
             <li>Role-ready pipelines</li>
@@ -80,13 +80,13 @@ require_once __DIR__ . '/partials/tour-slider.php';
       <div>
         <span class="eyebrow">How it works</span>
         <h2>Dashboards that keep every hire on track</h2>
-        <p class="lead">Launch a school dashboard, connect teacher profiles, and follow each application with transparent updates.</p>
+        <p class="lead">Launch a Company dashboard, connect teacher profiles, and follow each application with transparent updates.</p>
         <a class="btn btn-primary btn-sm" href="tour.php">Explore the product tour</a>
       </div>
       <ol class="list-steps">
         <li>
-          <h3>Activate your school dashboard</h3>
-          <p>Tailor hiring stages, focus areas, and intake forms so your pipeline mirrors the way your school recruits.</p>
+          <h3>Activate your Company dashboard</h3>
+          <p>Tailor hiring stages, focus areas, and intake forms so your pipeline mirrors the way your Company recruits.</p>
         </li>
         <li>
           <h3>Share roles with teachers</h3>
@@ -119,7 +119,7 @@ require_once __DIR__ . '/partials/tour-slider.php';
     <div class="container split-layout">
       <div class="quote-card">
         <span class="badge badge--light">Founder insight</span>
-        <blockquote>"We designed LevelMinds so that every teacher knows where they stand and every school can hire with confidence."</blockquote>
+        <blockquote>"We designed LevelMinds so that every teacher knows where they stand and every Company can hire with confidence."</blockquote>
         <cite>Varun Chamoli, Founder</cite>
       </div>
       <div class="card card--dark">
