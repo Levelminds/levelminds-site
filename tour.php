@@ -8,7 +8,7 @@ require_once __DIR__ . '/partials/tour-slider.php';
     <div class="container stack">
       <span class="badge">Product tour</span>
       <h1>See LevelMinds in action</h1>
-      <p class="lead">Walk through the spaces teachers and school teams share to move from application to offer without friction.</p>
+      <p class="lead">Walk through the spaces teachers and Educational Institutes teams share to move from application to offer without friction.</p>
       <div class="hero__actions">
         <a class="btn btn-primary" href="contact.php">Request a live demo</a>
         <a class="btn btn-secondary" href="index.php">Return to home</a>
