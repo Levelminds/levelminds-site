@@ -5,7 +5,7 @@
         <img class="footer-logo-img" src="assets/img/logo.svg" alt="LevelMinds logo">
         <span>LevelMinds</span>
       </a>
-      <p>Skill-first hiring platform connecting schools and teachers with transparent, collaborative workflows.</p>
+      <p>Skill-first hiring platform connecting Educational Institutions & Companies and Teachers with transparent, collaborative workflows.</p>
     </div>
     <div>
       <h4>Navigate</h4>
@@ -41,7 +41,7 @@
   </div>
   <div class="container footer-sub">
     <span>&copy; <?= date('Y') ?> LevelMinds. All rights reserved.</span>
-    <span>Made for schools and teachers who lead with skills.</span>
+    <span>Made for Educational Institutes and teachers who lead with skills.</span>
   </div>
 </footer>
 <script>
