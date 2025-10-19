@@ -30,7 +30,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['lm_contact'])) {
     <div class="container stack">
       <span class="badge">Contact</span>
       <h1>We would love to hear from you</h1>
-      <p class="lead">Whether you are a school, teacher, or partner, reach out and we will respond within two business days.</p>
+      <p class="lead">Whether you are a Educational Institute, teacher, or partner, reach out and we will respond within two business days.</p>
     </div>
   </section>
 
