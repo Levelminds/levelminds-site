@@ -11,7 +11,7 @@ require_once __DIR__ . '/partials/tour-slider.php';
         <h1>Hiring that celebrates great teaching.</h1>
         <p class="lead">LevelMinds connects Educational Institutions & Companies and educators through transparent pipelines, collaborative workflows, and digital profiles that highlight classroom impact.</p>
         <div class="hero__actions">
-          <a class="btn btn-primary" href="https://lmap.in/signup">Sign Up as Educational Institutions</a>
+          <a class="btn btn-primary" href="https://lmap.in/signup">Sign Up as Educational Institute</a>
           <a class="btn btn-secondary" href="https://lmap.in/signup">Sign Up as Teacher</a>
         </div>
         <dl class="metric-grid">
